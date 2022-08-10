@@ -5,3 +5,7 @@
 *.iml
 
 target
+.gitignore.swo
+.gitignore.swp
+pom.xml
+src
